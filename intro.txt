@@ -1,0 +1,3 @@
+hey there,
+I am learning Git 
+and this is my first text file:
